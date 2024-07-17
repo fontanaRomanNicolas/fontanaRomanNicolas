@@ -26,26 +26,6 @@
 ## ¿Quieres saber qué estoy programando en este momento?
 ### ¡Genial! Echa un vistazo a una pequeña descripción del proyecto:
 
----
-
-### Proyecto de Aplicación Web para Contratación de Profesionales
-
-Estoy desarrollando un proyecto integral de front-end y back-end para una aplicación web destinada a la contratación de profesionales. Esta plataforma permitirá a los usuarios registrarse y elegir entre dos roles: profesional o contratante.
-
-### 🚀 Funcionalidades para Usuarios que Buscan Contratar Profesionales:
-- 🔍 **Explora Perfiles Detallados**: Incluyendo estadísticas, certificaciones y disponibilidad.
-- 💬 **Comunicación Directa**: Capacidad de comunicarse directamente con los profesionales a través de la aplicación.
-- ⭐ **Revisiones y Comparaciones**: Revisa y compara profesionales para encontrar la mejor opción según tus necesidades.
-
-### 🚀 Funcionalidades para Profesionales que Buscan Ser Contratados:
-- 📝 **Gestión de Perfiles**: Crea y gestiona perfiles destacando habilidades, certificaciones y experiencia.
-- ✅ **Aceptar o Rechazar Ofertas**: Capacidad de aceptar o rechazar ofertas de trabajo según disponibilidad.
-- 💬 **Comunicación Directa**: Comunícate directamente con los usuarios interesados en contratar tus servicios.
-
----
-
-Esta es una breve descripción de las principales funciones del proyecto, donde buscare demostrar mis habilidades en programación.
-
 # ¿Quieres ver algo más?
 ## Aquí tienes un gatito programador 🐱💻
 ![Gatito Programador](./img/giphy.webp)
